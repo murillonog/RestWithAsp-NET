@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Murillo Nogueira\\Desktop\\Dev\\ProjetoAulas\\RestWithAsp-NET\\RestWithAspNET\\RestWithAspNET.csproj": {}
+    "C:\\Users\\Murillo Nogueira\\Desktop\\Dev\\ProjetoAulas\\RestWithAsp-NET\\RestWithAspNET 01 - Calculator\\RestWithAspNET\\RestWithAspNET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Murillo Nogueira\\Desktop\\Dev\\ProjetoAulas\\RestWithAsp-NET\\RestWithAspNET\\RestWithAspNET.csproj": {
+    "C:\\Users\\Murillo Nogueira\\Desktop\\Dev\\ProjetoAulas\\RestWithAsp-NET\\RestWithAspNET 01 - Calculator\\RestWithAspNET\\RestWithAspNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murillo Nogueira\\Desktop\\Dev\\ProjetoAulas\\RestWithAsp-NET\\RestWithAspNET\\RestWithAspNET.csproj",
+        "projectUniqueName": "C:\\Users\\Murillo Nogueira\\Desktop\\Dev\\ProjetoAulas\\RestWithAsp-NET\\RestWithAspNET 01 - Calculator\\RestWithAspNET\\RestWithAspNET.csproj",
         "projectName": "RestWithAspNET",
-        "projectPath": "C:\\Users\\Murillo Nogueira\\Desktop\\Dev\\ProjetoAulas\\RestWithAsp-NET\\RestWithAspNET\\RestWithAspNET.csproj",
+        "projectPath": "C:\\Users\\Murillo Nogueira\\Desktop\\Dev\\ProjetoAulas\\RestWithAsp-NET\\RestWithAspNET 01 - Calculator\\RestWithAspNET\\RestWithAspNET.csproj",
         "packagesPath": "C:\\Users\\Murillo Nogueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murillo Nogueira\\Desktop\\Dev\\ProjetoAulas\\RestWithAsp-NET\\RestWithAspNET\\obj\\",
+        "outputPath": "C:\\Users\\Murillo Nogueira\\Desktop\\Dev\\ProjetoAulas\\RestWithAsp-NET\\RestWithAspNET 01 - Calculator\\RestWithAspNET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",

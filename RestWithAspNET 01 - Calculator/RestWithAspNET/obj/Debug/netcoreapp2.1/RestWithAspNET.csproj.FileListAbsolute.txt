@@ -1,0 +1,14 @@
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\bin\Debug\netcoreapp2.1\RestWithAspNET.deps.json
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\bin\Debug\netcoreapp2.1\RestWithAspNET.runtimeconfig.json
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\bin\Debug\netcoreapp2.1\RestWithAspNET.runtimeconfig.dev.json
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\bin\Debug\netcoreapp2.1\RestWithAspNET.dll
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\bin\Debug\netcoreapp2.1\RestWithAspNET.pdb
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.1\RestWithAspNET.csprojAssemblyReference.cache
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.1\RestWithAspNET.csproj.CoreCompileInputs.cache
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.1\RestWithAspNET.RazorAssemblyInfo.cache
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.1\RestWithAspNET.RazorAssemblyInfo.cs
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.1\RestWithAspNET.AssemblyInfoInputs.cache
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.1\RestWithAspNET.AssemblyInfo.cs
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.1\RestWithAspNET.RazorTargetAssemblyInfo.cache
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.1\RestWithAspNET.dll
+C:\Users\Murillo Nogueira\Desktop\Dev\ProjetoAulas\RestWithAsp-NET\RestWithAspNET 01 - Calculator\RestWithAspNET\obj\Debug\netcoreapp2.1\RestWithAspNET.pdb
