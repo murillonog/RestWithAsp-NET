@@ -1,0 +1,28 @@
+version: '3.4'
+
+services:
+  db:
+    image: mysql:5.7.22
+    command: mysql --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: docker
+      MYSQL_USER: docker
+      MYSQL_PASSWORD: docker
+      MYSQL_DATABASE: rest_with_asp_net
+  restwithaspnet:
+    image: restwithaspnet-api
+    build:
+      context: .
+      dockerfile: RestWithAspNET/Dockerfile
+
+     environment:
+       ASPNETCORE_ENVIRONMENT:Development
+    ports:
+      - "5000:80"      
+    networks:
+      - udemy-network
+
+  networks:
+    udemy-network:
+      driver:bridge
